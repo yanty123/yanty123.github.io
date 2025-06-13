@@ -19,6 +19,6 @@ I am always open for research discussions and collaborations.
 Pubications
 ------
 
-OLiDM: Object-aware LiDAR Diffusion Models for Autonomous Driving
+Tianyi Yan*, Junbo Yin*, Xianpeng Lang, Ruigang Yang, Cheng-Zhong Xu, Jianbing Shen :email:. OLiDM: Object-aware LiDAR Diffusion Models for Autonomous Driving. AAAI 2025 
 
-Drivingsphere: Building a high-fidelity 4d world for closed-loop simulation
+Tianyi Yan, Dongming Wu, Wencheng Han, Junpeng Jiang, Xia Zhou, Kun Zhan, Cheng-zhong Xu, Jianbing Shen :email:. Drivingsphere: Building a high-fidelity 4d world for closed-loop simulation. CVPR 2025
