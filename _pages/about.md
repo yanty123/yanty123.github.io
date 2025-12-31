@@ -6,7 +6,7 @@ subtitle: <a href='https://skliotsc.um.edu.mo/'>IOTSC, University of Macau</a>. 
 
 profile:
   align: right
-  image: xx.jpg
+  image: xx.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>tianyi.yan123@gmail.com</p>
