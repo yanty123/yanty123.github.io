@@ -1,175 +1,63 @@
 metadata:
-  last_updated: '2025-12-17'
+  last_updated: '2026-01-02'
 papers:
-  qc6CJjYAAAAJ:wTekDMGr9GkC:
-    citations: 0
-    title: Einstein und die Geophysik:(Einstein and geophysics)
-    year: '2005'
-  qc6CJjYAAAAJ:wW8w_uPXRNAC:
-    citations: 1
-    title: Statistische Mechanik
-    year: '1979'
-  qc6CJjYAAAAJ:wdLM4YbmhYkC:
-    citations: 0
-    title: "La teoria della relativit\xE0"
-    year: '1987'
-  qc6CJjYAAAAJ:wgKq3sYidysC:
-    citations: 509
-    title: Concerning an heuristic point of view toward the emission and transformation of light
-    year: '1965'
-  qc6CJjYAAAAJ:wkm4DBaukwsC:
-    citations: 8
-    title: "Antwort auf eine Abhandlung M. v. Laues \u201EEin Satz der Wahrscheinlichkeitsrechnung und seine Anwendung auf die Strahlungstheorie\u201D \uFE01"
-    year: '1915'
-  qc6CJjYAAAAJ:wlh7PBhwZ8MC:
-    citations: 11
-    title: 'Albert Einstein] to Michele Besso: Letter, 6 Sep 1916'
-    year: Unknown Year
-  qc6CJjYAAAAJ:wuD5JclIwkYC:
-    citations: 222
-    title: Science and religion
-    year: '1940'
-  qc6CJjYAAAAJ:wy5MF_2MSNEC:
-    citations: 11
-    title: 'Albert Einstein] to Michele Besso: Letter, 9 Jul 1918'
-    year: Unknown Year
-  qc6CJjYAAAAJ:xMZGxf1v-3YC:
-    citations: 0
-    title: 'Albert Einstein] to Hans Albert and Eduard Einstein: Letter, 10 Dec 1918'
-    year: Unknown Year
-  qc6CJjYAAAAJ:xUT3DyvLuJwC:
-    citations: 0
-    title: 'Albert Einstein] to Arnold Sommerfeld: Letter, 14 Jan 1908'
-    year: Unknown Year
-  qc6CJjYAAAAJ:xZ4F5NOCMJ0C:
-    citations: 0
-    title: Why lnformation Technology lnspired but Cannot Deliver Knowledge Management
-    year: '2004'
-  qc6CJjYAAAAJ:xii_ZKWM4-0C:
-    citations: 44
-    title: "Bemerkungen zu den P. Hertzschen Arbeiten:\u201E\xDCber die mechanischen Grundlagen der Thermodynamik\u201D \uFE01"
-    year: '1911'
-  qc6CJjYAAAAJ:xu-w60CxnpAC:
-    citations: 0
-    title: "Briefe zur Wellenmechanik [von][Erwin] Schr\xF6dinger,[Max] Planck,[ALbert] Einstein und [Hendrik Antoon] Lorentz"
-    year: '1963'
-  qc6CJjYAAAAJ:xvKSgulxyWUC:
-    citations: 6
-    title: 'The collected papers of Albert Einstein: writings, 1912-1914. The Swiss years'
-    year: '1966'
-  qc6CJjYAAAAJ:xwIxJehhd2UC:
-    citations: 0
-    title: "Albert Einstein] to Rudolf F\xF6rster: Letter, 19 Feb 1918"
-    year: Unknown Year
-  qc6CJjYAAAAJ:xyKys1DtkaQC:
-    citations: 30
-    title: Wissenschaftlicher Briefwechsel mit Bohr, Einstein, Heisenberg ua. Bd. 4. 1955-1956
-    year: '2001'
-  qc6CJjYAAAAJ:yCjxvIMm6_oC:
-    citations: 16
-    title: "Nachtr\xE4gliche Antwort auf eine Frage von Herrn Rei\xDFner"
-    year: '1914'
-  qc6CJjYAAAAJ:yG6gRY0c4kQC:
-    citations: 0
-    title: 'Albert Einstein] to Gustav Mie: Letter, 29 Dec 1917'
-    year: Unknown Year
-  qc6CJjYAAAAJ:yIeBiWEAh44C:
-    citations: 1291
-    title: "\xDCber den Einflu\xDF der Schwerkraft auf die Ausbreitung des Lichtes"
-    year: '2006'
-  qc6CJjYAAAAJ:yJjnfzR0HrkC:
-    citations: 861
-    title: Strahlungs-emission und absorption nach der quantentheorie
-    year: '1916'
-  qc6CJjYAAAAJ:yKZlB_2wKysC:
-    citations: 0
-    title: 'Albert Einstein] to Paul Ehrenfest: Letter, 4 Sep 1918'
-    year: Unknown Year
-  qc6CJjYAAAAJ:yNlG6JgpFqoC:
-    citations: 237
-    title: A generalized theory of gravitation
-    year: '1948'
-  qc6CJjYAAAAJ:yNohvu9kXXYC:
-    citations: 384
-    title: Quantentheorie des idealen einatomigen Gases, Sitzber
-    year: '1924'
-  qc6CJjYAAAAJ:yS0fcbgecPsC:
-    citations: 21
-    title: Education for independent thought
-    year: '1952'
-  qc6CJjYAAAAJ:yXZqsUWzai8C:
-    citations: 137
-    title: "Koniglich Preu\u03B2ische Akademie der Wissenschaften"
-    year: '1916'
-  qc6CJjYAAAAJ:yZoBfgUKqwcC:
-    citations: 45
-    title: "\xDCber eine naheliegende Erg\xE4nzung des Fundamentes der allgemeinen Relativit\xE4tstheorie"
-    year: '1921'
-  qc6CJjYAAAAJ:ypzvKOdbExQC:
-    citations: 0
-    title: VICTOR J. STENGER
-    year: '1990'
-  qc6CJjYAAAAJ:yxAilOxaV9sC:
-    citations: 0
-    title: Le lien entre science et art dans la conception du monde de Einstein.
-    year: Unknown Year
-  qc6CJjYAAAAJ:yymuTJNBJz4C:
-    citations: 0
-    title: "Z Einsteinovy Pra\u017Esk\xE9 korespondence"
-    year: '1962'
-  qc6CJjYAAAAJ:z2g7kDSNNyoC:
-    citations: 17
-    title: "Eine neue elektrostatische Methode zur Messung kleiner Elektrizit\xE4tsmengen"
-    year: '1908'
-  qc6CJjYAAAAJ:zCpYd49hD24C:
-    citations: 0
-    title: "Einstein e la sua relativit\xE0"
-    year: '1922'
-  qc6CJjYAAAAJ:zEYdoEEwLqEC:
-    citations: 11
-    title: "Sur les forces pond\xE9romotrices qui agissent sur des conducteurs ferromagn\xE9tiques dispos\xE9s dans un champ magn\xE9tique et parcourus par un courant"
-    year: '1910'
-  qc6CJjYAAAAJ:zG6RlwjYRPQC:
+  0JmbnNQAAAAJ:2osOgNQ5qMEC:
     citations: 18
-    title: Marian v. Smoluchowski
-    year: '1917'
-  qc6CJjYAAAAJ:zI9YInTrFVIC:
+    title: 'Drivingsphere: Building a high-fidelity 4d world for closed-loop simulation'
+    year: '2025'
+  0JmbnNQAAAAJ:9yKSN-GCB0IC:
+    citations: 117
+    title: 'Pass: Part-aware self-supervised pre-training for person re-identification'
+    year: '2022'
+  0JmbnNQAAAAJ:IjCSPb-OGe4C:
+    citations: 4
+    title: 'Dive: Efficient multi-view driving scenes generation based on video diffusion transformer'
+    year: '2025'
+  0JmbnNQAAAAJ:LkGwnXOMwfcC:
     citations: 0
-    title: 'Albert Einstein] to Wander de Haas: Letter, 17 Mar 1915'
-    year: Unknown Year
-  qc6CJjYAAAAJ:zLWjf1WUPmwC:
-    citations: 19
-    title: "Les fondements de la th\xE9orie de la relativit\xE9 g\xE9n\xE9rale"
-    year: '1933'
-  qc6CJjYAAAAJ:zLla2nKXDtwC:
+    title: 'WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World'
+    year: '2025'
+  0JmbnNQAAAAJ:Tyk-4Ss8FVUC:
+    citations: 8
+    title: 'Compressed depth map super-resolution and restoration: AIM 2024 challenge results'
+    year: '2024'
+  0JmbnNQAAAAJ:UeHWp8X0CEIC:
+    citations: 11
+    title: 'OLiDM: Object-aware LiDAR Diffusion Models for Autonomous Driving'
+    year: '2024'
+  0JmbnNQAAAAJ:W7OEmFMy1HYC:
+    citations: 28
+    title: '3D and 4D world modeling: A survey'
+    year: '2025'
+  0JmbnNQAAAAJ:Y0pCki6q_DkC:
+    citations: 3
+    title: 'Robopearls: Editable video simulation for robot manipulation'
+    year: '2025'
+  0JmbnNQAAAAJ:YsMSGLbcyi4C:
+    citations: 1
+    title: 'Rlgf: Reinforcement learning with geometric feedback for autonomous driving video generation'
+    year: '2025'
+  0JmbnNQAAAAJ:_FxGoFyzp5QC:
+    citations: 1
+    title: 'AD-R1: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving with Impartial World Models'
+    year: '2025'
+  0JmbnNQAAAAJ:d1gkVwhDpl0C:
+    citations: 7
+    title: Plug-and-play pseudo label correction network for unsupervised person re-identification
+    year: '2022'
+  0JmbnNQAAAAJ:eQOLeE2rZwMC:
     citations: 0
-    title: On the Misery of Children, 7 Oct 1921
-    year: Unknown Year
-  qc6CJjYAAAAJ:zPkyA21Y468C:
+    title: 'OmniGen: Unified Multimodal Sensor Generation for Autonomous Driving'
+    year: '2025'
+  0JmbnNQAAAAJ:qjMakFHDy7sC:
+    citations: 9
+    title: Unsupervised domain adaptive re-identification with feature adversarial learning and self-similarity clustering
+    year: '2021'
+  0JmbnNQAAAAJ:roLk4NBRz8UC:
     citations: 0
-    title: Physical Interpretations of Relativity Theory
-    year: Unknown Year
-  qc6CJjYAAAAJ:zTJoPluU4X4C:
-    citations: 0
-    title: Nonlinear Model Equations and Variational Principles
-    year: Unknown Year
-  qc6CJjYAAAAJ:z_wVstp3MssC:
-    citations: 24
-    title: 'About Zionism: Speeches and Letters by Professor Albert Einstein'
-    year: '1930'
-  qc6CJjYAAAAJ:za7pDTvVV8kC:
-    citations: 16
-    title: Zur Theorie der Lichtfortpflanzung in dispergierenden Medien
-    year: '2006'
-  qc6CJjYAAAAJ:ziRtHtnO-_kC:
-    citations: 0
-    title: Robert Nathan
-    year: '1967'
-  qc6CJjYAAAAJ:ziW8EwMpto0C:
-    citations: 0
-    title: "Albert Einstein] to Rudolf F\xF6rster: Letter, 17 Jan 1918"
-    year: Unknown Year
-  qc6CJjYAAAAJ:zxzvZ9-XIW8C:
-    citations: 72
-    title: Albert Einstein, the human side
-    year: '2013'
+    title: 'From Human Intention to Action Prediction: A Comprehensive Benchmark for Intention-driven End-to-End Autonomous Driving'
+    year: '2025'
+  0JmbnNQAAAAJ:zYLM7Y9cAGgC:
+    citations: 1
+    title: Geometry-aware Temporal Aggregation Network for Monocular 3D Lane Detection
+    year: '2025'
