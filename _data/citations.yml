@@ -1,32 +1,36 @@
 metadata:
-  last_updated: '2026-01-05'
+  last_updated: '2026-01-23'
 papers:
   0JmbnNQAAAAJ:2osOgNQ5qMEC:
-    citations: 20
+    citations: 21
     title: 'Drivingsphere: Building a high-fidelity 4d world for closed-loop simulation'
     year: '2025'
   0JmbnNQAAAAJ:9yKSN-GCB0IC:
     citations: 117
     title: 'Pass: Part-aware self-supervised pre-training for person re-identification'
     year: '2022'
-  0JmbnNQAAAAJ:IjCSPb-OGe4C:
-    citations: 4
-    title: 'Dive: Efficient multi-view driving scenes generation based on video diffusion transformer'
-    year: '2025'
   0JmbnNQAAAAJ:LkGwnXOMwfcC:
-    citations: 1
-    title: 'WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World'
+    citations: 3
+    title: 'WorldLens: Full-spectrum evaluations of driving world models in real world'
+    year: '2025'
+  0JmbnNQAAAAJ:Se3iqnhoufwC:
+    citations: 8
+    title: 'AD-R1: Closed-loop reinforcement learning for end-to-end autonomous driving with impartial world models'
     year: '2025'
   0JmbnNQAAAAJ:Tyk-4Ss8FVUC:
     citations: 8
     title: 'Compressed depth map super-resolution and restoration: AIM 2024 challenge results'
     year: '2024'
   0JmbnNQAAAAJ:UeHWp8X0CEIC:
-    citations: 11
+    citations: 12
     title: 'OLiDM: Object-aware LiDAR Diffusion Models for Autonomous Driving'
     year: '2024'
+  0JmbnNQAAAAJ:UebtZRa9Y70C:
+    citations: 28
+    title: 'Dive: Efficient multi-view driving scenes generation based on video diffusion transformer'
+    year: '2024'
   0JmbnNQAAAAJ:W7OEmFMy1HYC:
-    citations: 30
+    citations: 36
     title: '3D and 4D world modeling: A survey'
     year: '2025'
   0JmbnNQAAAAJ:Y0pCki6q_DkC:
@@ -34,19 +38,15 @@ papers:
     title: 'Robopearls: Editable video simulation for robot manipulation'
     year: '2025'
   0JmbnNQAAAAJ:YsMSGLbcyi4C:
-    citations: 1
+    citations: 2
     title: 'Rlgf: Reinforcement learning with geometric feedback for autonomous driving video generation'
     year: '2025'
-  0JmbnNQAAAAJ:_FxGoFyzp5QC:
-    citations: 1
-    title: 'AD-R1: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving with Impartial World Models'
-    year: '2025'
   0JmbnNQAAAAJ:d1gkVwhDpl0C:
-    citations: 7
+    citations: 9
     title: Plug-and-play pseudo label correction network for unsupervised person re-identification
     year: '2022'
   0JmbnNQAAAAJ:eQOLeE2rZwMC:
-    citations: 0
+    citations: 1
     title: 'OmniGen: Unified Multimodal Sensor Generation for Autonomous Driving'
     year: '2025'
   0JmbnNQAAAAJ:qjMakFHDy7sC:
