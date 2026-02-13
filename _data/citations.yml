@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-01-23'
+  last_updated: '2026-02-13'
 papers:
   0JmbnNQAAAAJ:2osOgNQ5qMEC:
-    citations: 21
+    citations: 22
     title: 'Drivingsphere: Building a high-fidelity 4d world for closed-loop simulation'
     year: '2025'
   0JmbnNQAAAAJ:9yKSN-GCB0IC:
-    citations: 117
+    citations: 121
     title: 'Pass: Part-aware self-supervised pre-training for person re-identification'
     year: '2022'
   0JmbnNQAAAAJ:LkGwnXOMwfcC:
-    citations: 3
+    citations: 4
     title: 'WorldLens: Full-spectrum evaluations of driving world models in real world'
     year: '2025'
   0JmbnNQAAAAJ:Se3iqnhoufwC:
@@ -26,16 +26,16 @@ papers:
     title: 'OLiDM: Object-aware LiDAR Diffusion Models for Autonomous Driving'
     year: '2024'
   0JmbnNQAAAAJ:UebtZRa9Y70C:
-    citations: 28
+    citations: 29
     title: 'Dive: Efficient multi-view driving scenes generation based on video diffusion transformer'
     year: '2024'
   0JmbnNQAAAAJ:W7OEmFMy1HYC:
-    citations: 36
+    citations: 37
     title: '3D and 4D world modeling: A survey'
     year: '2025'
   0JmbnNQAAAAJ:Y0pCki6q_DkC:
-    citations: 3
-    title: 'Robopearls: Editable video simulation for robot manipulation'
+    citations: 4
+    title: 'RoboPearls: editable video simulation for robot manipulation'
     year: '2025'
   0JmbnNQAAAAJ:YsMSGLbcyi4C:
     citations: 2
@@ -46,8 +46,12 @@ papers:
     title: Plug-and-play pseudo label correction network for unsupervised person re-identification
     year: '2022'
   0JmbnNQAAAAJ:eQOLeE2rZwMC:
-    citations: 1
-    title: 'OmniGen: Unified Multimodal Sensor Generation for Autonomous Driving'
+    citations: 2
+    title: 'Omnigen: Unified multimodal sensor generation for autonomous driving'
+    year: '2025'
+  0JmbnNQAAAAJ:hqOjcs7Dif8C:
+    citations: 0
+    title: 'From Human Intention to Action Prediction: Intention-Driven End-to-End Autonomous Driving'
     year: '2025'
   0JmbnNQAAAAJ:qjMakFHDy7sC:
     citations: 9
@@ -58,6 +62,6 @@ papers:
     title: 'From Human Intention to Action Prediction: A Comprehensive Benchmark for Intention-driven End-to-End Autonomous Driving'
     year: '2025'
   0JmbnNQAAAAJ:zYLM7Y9cAGgC:
-    citations: 1
+    citations: 3
     title: Geometry-aware Temporal Aggregation Network for Monocular 3D Lane Detection
     year: '2025'
