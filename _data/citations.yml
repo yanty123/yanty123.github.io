@@ -1,20 +1,24 @@
 metadata:
-  last_updated: '2026-02-13'
+  last_updated: '2026-02-18'
 papers:
+  0JmbnNQAAAAJ:0EnyYjriUFMC:
+    citations: 1
+    title: 'Breaking Down Monocular Ambiguity: Exploiting Temporal Evolution for 3D Lane Detection'
+    year: '2025'
   0JmbnNQAAAAJ:2osOgNQ5qMEC:
-    citations: 22
+    citations: 23
     title: 'Drivingsphere: Building a high-fidelity 4d world for closed-loop simulation'
     year: '2025'
   0JmbnNQAAAAJ:9yKSN-GCB0IC:
-    citations: 121
+    citations: 119
     title: 'Pass: Part-aware self-supervised pre-training for person re-identification'
     year: '2022'
   0JmbnNQAAAAJ:LkGwnXOMwfcC:
-    citations: 4
+    citations: 5
     title: 'WorldLens: Full-spectrum evaluations of driving world models in real world'
     year: '2025'
   0JmbnNQAAAAJ:Se3iqnhoufwC:
-    citations: 8
+    citations: 9
     title: 'AD-R1: Closed-loop reinforcement learning for end-to-end autonomous driving with impartial world models'
     year: '2025'
   0JmbnNQAAAAJ:Tyk-4Ss8FVUC:
@@ -22,15 +26,15 @@ papers:
     title: 'Compressed depth map super-resolution and restoration: AIM 2024 challenge results'
     year: '2024'
   0JmbnNQAAAAJ:UeHWp8X0CEIC:
-    citations: 12
+    citations: 14
     title: 'OLiDM: Object-aware LiDAR Diffusion Models for Autonomous Driving'
     year: '2024'
   0JmbnNQAAAAJ:UebtZRa9Y70C:
-    citations: 29
+    citations: 31
     title: 'Dive: Efficient multi-view driving scenes generation based on video diffusion transformer'
     year: '2024'
   0JmbnNQAAAAJ:W7OEmFMy1HYC:
-    citations: 37
+    citations: 38
     title: '3D and 4D world modeling: A survey'
     year: '2025'
   0JmbnNQAAAAJ:Y0pCki6q_DkC:
@@ -38,7 +42,7 @@ papers:
     title: 'RoboPearls: editable video simulation for robot manipulation'
     year: '2025'
   0JmbnNQAAAAJ:YsMSGLbcyi4C:
-    citations: 2
+    citations: 3
     title: 'Rlgf: Reinforcement learning with geometric feedback for autonomous driving video generation'
     year: '2025'
   0JmbnNQAAAAJ:d1gkVwhDpl0C:
@@ -63,5 +67,5 @@ papers:
     year: '2025'
   0JmbnNQAAAAJ:zYLM7Y9cAGgC:
     citations: 3
-    title: Geometry-aware Temporal Aggregation Network for Monocular 3D Lane Detection
+    title: Geometry-aware temporal aggregation network for monocular 3d lane detection
     year: '2025'
