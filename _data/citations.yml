@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-18'
+  last_updated: '2026-02-23'
 papers:
   0JmbnNQAAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -26,7 +26,7 @@ papers:
     title: 'Compressed depth map super-resolution and restoration: AIM 2024 challenge results'
     year: '2024'
   0JmbnNQAAAAJ:UeHWp8X0CEIC:
-    citations: 14
+    citations: 15
     title: 'OLiDM: Object-aware LiDAR Diffusion Models for Autonomous Driving'
     year: '2024'
   0JmbnNQAAAAJ:UebtZRa9Y70C:
