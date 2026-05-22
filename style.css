@@ -114,6 +114,15 @@ h2 {
 }
 .pub-links a:hover { border-color: var(--accent); color: var(--accent); text-decoration: none; }
 
+/* ===== Publication Section Titles ===== */
+.pub-section-title {
+  font-size: 15px; font-weight: 600; text-transform: uppercase;
+  letter-spacing: 0.04em; color: var(--text2);
+  margin: 28px 0 8px; padding-bottom: 6px;
+  border-bottom: 1px solid var(--border);
+}
+.pub-section-title:first-of-type { margin-top: 0; }
+
 /* ===== Projects ===== */
 .project-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
 .project-card {
