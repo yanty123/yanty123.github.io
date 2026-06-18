@@ -17,6 +17,7 @@
     <div class="nav-links">
       <a href="#about">About</a>
       <a href="#news">News</a>
+      <a href="#projects">Projects</a>
       <a href="#publications">Publications</a>
       <a href="#experience">Experience</a>
     </div>
@@ -49,7 +50,7 @@
       </p>
       <p class="intro">
         My research lies at the intersection of <strong>Generative World Models</strong>, <strong>End-to-End Autonomous Driving</strong>,
-        <strong>Embodied AI</strong>, and <strong>LLM Post-Training / Evaluation</strong>. Currently, my primary focus is on enabling agents to achieve infinite driving and self-play
+        <strong>Embodied AI</strong>, and <strong>LLM Post-Training / Evaluation</strong>. Currently, my primary focus is on enabling agents to achieve infinite self-play
         within physically reliable, imaginative world models, as well as advancing LLM evaluation and post-training methodologies.
       </p>
       <div class="links">
@@ -65,12 +66,50 @@
 <section id="news">
   <h2>News</h2>
   <ul class="news-list">
-    <li><span class="date">2026.02</span> Two papers <a href="https://github.com/worldbench/WorldLens" target="_blank">WorldLens</a> and <a href="https://arxiv.org/abs/2511.20325" target="_blank">AD-R1</a> are accepted by <b>CVPR 2026</b>! See u in DENVER!</li> 
+    <li><span class="date">2026.06</span> Released <a href="https://qwen.ai/blog?id=qwen-robotsuite" target="_blank">Qwen-RobotSuite</a> at <b>Alibaba Qwen</b> — a full stack for embodied intelligence with three foundation models!</li>
+    <li><span class="date">2026.05</span> <a href="https://arxiv.org/abs/2605.18137" target="_blank">Xiaomi Auto World Model</a> technical report released — joint reconstruction &amp; generation for autonomous driving!</li>
+    <li><span class="date">2026.02</span> Two papers <a href="https://github.com/worldbench/WorldLens" target="_blank">WorldLens</a> and <a href="https://arxiv.org/abs/2511.20325" target="_blank">AD-R1</a> are accepted by <b>CVPR 2026</b>! See u in DENVER!</li>
     <li><span class="date">2025.09</span> One paper <a href="https://arxiv.org/abs/2509.16500" target="_blank">RLGF</a> is accepted by <b>NeurIPS 2025</b>! See u in SAN DIEGO!</li>
     <li><span class="date">2025.07</span> One paper is accepted by <b>ACM MM 2025</b>!</li>
     <li><span class="date">2025.06</span> One paper is accepted by <b>ICCV 2025</b>!</li>
     <li><span class="date">2025.02</span> One paper <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Yan_DrivingSphere_Building_a_High-fidelity_4D_World_for_Closed-loop_Simulation_CVPR_2025_paper.html" target="_blank">DrivingSphere</a> is accepted by <b>CVPR 2025</b>! See u in NASHVILLE!</li>
   </ul>
+</section>
+
+<!-- ==================== Industry Projects & Reports ==================== -->
+<section id="projects">
+  <h2>Industry Projects & Reports</h2>
+
+  <div class="pub">
+    <div class="pub-img"><img src="assets/Qwen-RobotSuite.jpg" alt="Qwen-RobotSuite"></div>
+    <div class="pub-info">
+      <p class="pub-title">Qwen-RobotSuite: A Full Stack for Embodied Intelligence</p>
+      <p class="pub-authors">Qwen Team, Alibaba Group</p>
+      <p class="pub-venue">Alibaba Qwen Blog, 2026.06</p>
+      <p class="pub-desc">Three foundation models — RobotNav, RobotManip, and RobotWorld — covering navigation, manipulation, and video world modeling across 20+ embodiments.</p>
+      <div class="pub-links">
+        <a href="https://qwen.ai/blog?id=qwen-robotsuite" target="_blank">Blog</a>
+                <a href="https://arxiv.org/abs/2606.17846" target="_blank">Qwen-RobotManip</a>
+                <a href="https://arxiv.org/abs/2606.18112" target="_blank">Qwen-RobotNav</a>
+                <a href="https://arxiv.org/abs/2606.17030" target="_blank">Qwen-RobotWorld</a>
+
+      </div>
+    </div>
+  </div>
+
+  <div class="pub">
+    <div class="pub-img"><img src="assets/xiaomijointwm.png" alt="Xiaomi Auto World Model"></div>
+    <div class="pub-info">
+      <p class="pub-title">Xiaomi Auto World Model: A Joint World Model Integrating Reconstruction and Generation for Autonomous Driving</p>
+      <p class="pub-authors">Lijun Zhou, Hongcheng Luo, ..., <b>Tianyi Yan</b>, ..., Haiyang Sun</p>
+      <p class="pub-venue">Technical Report, 2026.05</p>
+      <p class="pub-desc">A unified system for autonomous driving world models: WorldRec for 3D Gaussian reconstruction and WorldGen for causal video generation in 4 denoising steps.</p>
+      <div class="pub-links">
+        <a href="https://arxiv.org/abs/2605.18137" target="_blank">Paper</a>
+      </div>
+    </div>
+  </div>
+
 </section>
 
 <!-- ==================== Publications ==================== -->
@@ -79,7 +118,7 @@
   <h3 class="pub-section-title">Selected Preprints</h3>
 
   <div class="pub">
-    <div class="pub-img"><img src="assets/paper3.svg" alt="OccDirector"></div>
+    <div class="pub-img"><img src="assets/occdirector.png" alt="OccDirector"></div>
     <div class="pub-info">
       <p class="pub-title">OccDirector: Language-Guided Behavior and Interaction Generation in 4D Occupancy Space
 </p>
@@ -92,20 +131,20 @@
   </div>
 
   <div class="pub">
-    <div class="pub-img"><img src="assets/paper3.svg" alt="OccDirector"></div>
+    <div class="pub-img"><img src="assets/causaldrive.png" alt="CausalDrive"></div>
     <div class="pub-info">
       <p class="pub-title">CausalDrive: Real-time Causal World Models for Autonomous Driving
 </p>
       <p class="pub-authors"><b>Tianyi Yan</b>, Huan Zheng, Dubing Chen, Meizhi Qu, et al.</p>
       <p class="pub-venue">arXiv 2026</p>
       <div class="pub-links">
-        <a href="https://arxiv.org/abs/2604.22240" target="_blank">Paper</a>
+        <a href="https://arxiv.org/abs/2606.15341" target="_blank">Paper</a>
       </div>
     </div>
   </div>
   
 <div class="pub">
-    <div class="pub-img"><img src="assets/paper3.svg" alt="OccDirector"></div>
+    <div class="pub-img"><img src="assets/humanintention.png" alt="Human Intention"></div>
     <div class="pub-info">
       <p class="pub-title">From Human Intention to Action Prediction: Intention-Driven End-to-End Autonomous Driving
 </p>
@@ -118,7 +157,7 @@
   </div>
 
   <div class="pub">
-    <div class="pub-img"><img src="assets/paper3.svg" alt="3D/4D Survey"></div>
+    <div class="pub-img"><img src="assets/3d4dworldmodeling.png" alt="3D/4D Survey"></div>
     <div class="pub-info">
       <p class="pub-title">3D and 4D World Modeling: A Survey</p>
       <p class="pub-authors">Lingdong Kong, Wesley Yang, Jianbiao Mei, Youquan Liu, Ao Liang, Dekai Zhu, et al.</p>
@@ -132,7 +171,7 @@
   <h3 class="pub-section-title">Selected Papers</h3>
 
   <div class="pub">
-    <div class="pub-img"><img src="assets/paper1.svg" alt="WorldLens"></div>
+    <div class="pub-img"><img src="assets/worldlens.png" alt="WorldLens"></div>
     <div class="pub-info">
       <p class="pub-title">WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World</p>
       <p class="pub-authors">Ao Liang*, Lingdong Kong*, <b>Tianyi Yan*</b>, Hongsi Liu*, Wesley Yang*, Ziqi Huang, Wei Yin, et al.</p>
